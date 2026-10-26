@@ -93,9 +93,44 @@ The project was tested using the physical equipment available in the university 
 
 The project demonstrates practical integration of industrial control and robotics.
 
+
 ## Project Gallery
 
-Photographs and selected technical diagrams will be added after reviewing the material for publication.
+The following images document the physical system and selected
+programming elements developed during the project.
+
+### 1. Industrial Packaging Workstation
+
+Physical workstation used for container handling and automated
+packaging operations.
+
+![Industrial packaging workstation](plc-packaging-workstation.jpg)
+
+### 2. UR3e Gripper and Positioning Fixture
+
+Detail of the robotic handling equipment and auxiliary fixture.
+
+![UR3e gripper and fixture](ur3e-gripper-fixture.jpg)
+
+### 3. Siemens GRAPH — Sequential Control
+
+Sequential logic implemented in TIA Portal for the automated
+packaging process, including different container formats.
+
+![Siemens GRAPH programming](siemens-graph-sequence.png)
+
+### 4. Siemens KOP — Counters and Reset Logic
+
+Ladder logic showing part counters and system reset functions.
+
+![Siemens KOP programming](PLC_Siemens_KOP_Contadores_Reset.png)
+
+### 5. UR3e — URScript Programming
+
+Selected programming fragment illustrating digital I/O
+synchronization and robotic handling sequences.
+
+![UR3e URScript programming](ur3e-urscript-plc-synchronization.png)
 
 ## Project Limitations
 
